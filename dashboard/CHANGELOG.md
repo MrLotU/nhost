@@ -1,5 +1,15 @@
 # @nhost/dashboard
 
+## 2.30.0
+
+### Minor Changes
+
+- f6947a2: fix: fetch job-backup services logs using Live filter
+
+### Patch Changes
+
+- 31e636a: fix (dashboard): Use the correct payload to reset metadata before the e2e tests
+
 ## 2.29.0
 
 ### Minor Changes
